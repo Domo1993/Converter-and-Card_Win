@@ -1,0 +1,15 @@
+.images {
+ width: 300px;
+ height: 400px;
+}
+
+.cardBox {
+	border: 3px solid black;
+	width: 305px;
+	height: 405px;
+	background-color: white;
+}
+
+.allCards {
+	padding-bottom: 20px;
+}

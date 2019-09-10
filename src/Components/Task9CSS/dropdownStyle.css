@@ -1,0 +1,62 @@
+
+.links {
+	color:black;
+
+}
+
+#dropmenu {
+	width: 290px;
+	background-color: #AEBFD8; 
+}
+
+.links {
+	padding-top: 5px;
+	padding-bottom: 5px;
+	
+}
+
+#nav1{
+	padding-right: 200px;
+}
+
+#nav2 {
+	padding-right: 108px;
+}
+
+#nav3 {
+	padding-right: 205px;
+}
+
+.links:hover {
+	text-decoration: none;
+	border-radius: 5px;
+	color: black;
+	transition: 0.5s;
+	background-color: lightgrey;
+
+}
+
+.dropItem:hover {
+	background-color: #AEBFD8; 
+}
+
+#nav1 {
+	padding-right: 
+}
+
+#dropdown-basic {
+	background-color: #285496;
+	font-size: 30px;
+	color: #966A28;
+	text-shadow: 2px 1px black;
+	border: 1px solid black;
+}
+
+#dropdownDiv {
+
+	padding-left: 20px;
+	padding-right: 1000px;
+	padding-top: 20px;
+	padding-bottom: 50px;
+}
+
